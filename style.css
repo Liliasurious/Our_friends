@@ -106,6 +106,7 @@
 .gag3{
     border-radius: 50px;
     width: 200px;
+    color: black;
     height: 50px;
     background: #F1CDB3;
     font-size: 20px;
@@ -357,6 +358,7 @@ main{
 }
 .v2p{
     font-size: 20px;
+    color: black;
 }
 footer{
     float: left; 
