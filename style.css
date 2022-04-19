@@ -255,7 +255,6 @@ main{
 .dad3{
     display: flex;
     justify-content: center;
-    color: black;
 }
 #dad{
     background-color: #F6F6F6;
@@ -270,6 +269,7 @@ main{
 }
 .dad3x{
     border-radius: 50px;
+    color: black;
     width: 200px;
     height: 50px;
     background: #F1CDB3;
