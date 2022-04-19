@@ -222,6 +222,10 @@ main{
     display: flex;
     justify-content: center;
 }
+.dad2pro{
+    display: flex;
+    justify-content: space-around;
+}
 .dad1p{
     font-size: 35px;
     text-align: center;
